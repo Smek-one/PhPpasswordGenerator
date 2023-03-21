@@ -1,0 +1,19 @@
+form{
+    text-align: center;
+  }
+  
+  h1{
+    text-align: center;
+    color: blue;
+  }
+  
+  .container{
+    background: blue;
+    color: white;
+    text-align: center;
+    transition: ease-in 5s;
+  }
+  
+  a{
+    color: yellow;
+  }
